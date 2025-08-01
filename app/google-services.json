@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "848542646832",
+    "project_id": "memo-e96ce",
+    "storage_bucket": "memo-e96ce.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848542646832:android:9fffae4b89593f4e4ea3f5",
+        "android_client_info": {
+          "package_name": "com.example.memo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLTZ-bAULb1WkaR1_3Bxp2cnyYoDPLqEE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
